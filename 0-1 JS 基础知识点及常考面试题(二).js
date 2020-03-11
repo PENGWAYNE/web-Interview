@@ -2,7 +2,7 @@
  * @Description: JS 基础知识点及常考面试题二
  * @Author: WaynePeng
  * @Date: 2020-03-05 17:50:01
- * @LastEditTime: 2020-03-06 08:21:01
+ * @LastEditTime: 2020-03-10 14:36:53
  * @LastEditors: WaynePeng
  */
 // == vs ===
@@ -105,3 +105,4 @@ try {
 // 原型
 console.log('######### 原型 ##########')
 // JavaScript 只有一种结构：对象。每个实例对象（ object ）都有一个私有属性（称之为 __proto__ ）指向它的构造函数的原型对象（prototype ）。该原型对象也有一个自己的原型对象( __proto__ ) ，层层向上直到一个对象的原型对象为 null。根据定义，null 没有原型，并作为这个原型链中的最后一个环节
+

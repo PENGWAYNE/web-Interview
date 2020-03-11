@@ -2,7 +2,7 @@
  * @Description: Promise
  * @Author: WaynePeng
  * @Date: 2020-03-06 15:49:44
- * @LastEditTime: 2020-03-06 15:54:37
+ * @LastEditTime: 2020-03-09 15:12:26
  * @LastEditors: WaynePeng
  */
 // Promise 翻译过来就是承诺的意思，这个承诺会在未来有一个确切的答复，并且该承诺有三种状态，分别是：
